@@ -1,0 +1,21 @@
+.Col{
+    margin:40px 0;
+}
+#food{
+    background-color: cyan;
+    padding:30px 0;
+}
+.Card{
+    box-shadow: 4px 3px 7px black;
+
+}
+#food h2{
+    text-align: center;
+}
+.Row{
+    display:flex;
+}
+.cardimg{
+    width:230px;
+    height:230px;
+}
