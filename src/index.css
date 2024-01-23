@@ -36,7 +36,7 @@
 /*Banner components*/
 .carouselimage{
   width:100%;
-  height:550px;
+  height:90vh;
   opacity:0.8;
 }
 .CarouselCaption{
@@ -45,10 +45,7 @@
 }
 .CarouselCaption h3{
   font-size:75px;
-  color:white;
-  outline:black;
-  -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: black;
+  color:yellow;
 }
 /* Custom styles for the carousel arrows */
 .carousel-control-prev-icon,
@@ -59,5 +56,11 @@
   height:50px;
   margin-top: -20px; /* Adjust vertical positioning */
   padding:30px;
-  background-color: blue;
+}
+
+@media screen and (max-width:600px){
+  .CarouselCaption h3{
+    font-size:35px;
+    color:yellow;
+  }
 }

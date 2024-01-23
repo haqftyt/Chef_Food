@@ -20,7 +20,7 @@ const Banner = () => {
           src="https://img.freepik.com/free-photo/big-sandwich-hamburger-with-juicy-beef-burger-cheese-tomato-red-onion-wooden-table_2829-19631.jpg"
           alt="Second slide"
         ></img>
-        <Carousel.Caption className="CarouselCaption">
+        <Carousel.Caption className="CarouselCaption carouselquote">
           <h3>Loyality with Customers</h3>
         </Carousel.Caption>
       </Carousel.Item>

@@ -16,7 +16,7 @@ const Food = () => {
               </Card.Body>
             </Card>
           </Col>
-          <Col className="Col">
+          <Col className="Col" >
             <Card style={{ width: "230px"}} className="Card">
               <Card.Img className="cardimg" variant="top" src="https://t3.ftcdn.net/jpg/05/21/56/86/360_F_521568693_EySDD5bxINHfYDzlrYXZpKoHXgVC8UI7.jpg" />
               <Card.Body>
