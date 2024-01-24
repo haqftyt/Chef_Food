@@ -4,7 +4,7 @@ import {Container, Form,Button} from 'react-bootstrap';
 const Contact = () => {
   return (
     <section id="contact">
-      <h2>Contact</h2>
+      <h2 className="fw-bold">Contact Us</h2>
       <Container className="Container">
       <Form>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
