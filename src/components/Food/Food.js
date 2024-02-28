@@ -36,7 +36,7 @@ const Food = () => {
           </Col>
           <Col className="Col">
             <Card style={{ width: "250px"}}className="Card">
-              <Card.Img className="cardimg" variant="top" src="https://www.cookwithnabeela.com/wp-content/uploads/2023/03/MuttonBiryani.webp" />
+              <Card.Img className="cardimg" variant="top" src="https://www.kannammacooks.com/wp-content/uploads/buhari-hotel-chennai-chicken-biryani-recipe-1-4.jpg" />
               <Card.Body>
                 <Card.Title>Briyani</Card.Title>
                 <Card.Text>50₹ (1 Kg)</Card.Text>
